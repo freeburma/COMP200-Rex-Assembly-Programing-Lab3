@@ -1,2 +1,2 @@
-# COMP200
-Assembly Programing Lab Examples at Waikato University
+# Reconmend to study. Don't copy and paste
+Assembly Programing Lab Examples. 
